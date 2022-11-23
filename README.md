@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/eldar-magomedov-263601233/)" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
 </div>
 
 <!--
