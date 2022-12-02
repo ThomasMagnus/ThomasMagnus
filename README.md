@@ -48,6 +48,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgeSQL" alt="PostgeSQL" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThomasMagnus&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **ThomasMagnus/ThomasMagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
